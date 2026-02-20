@@ -387,6 +387,8 @@ Data settings:
 ```
  # บันทึกรูปหน้า Users
 ```
+<img width="1365" height="643" alt="image" src="https://github.com/user-attachments/assets/72b2771c-65db-4cc4-b503-b87fe65ac0ff" />
+<img width="1366" height="589" alt="image" src="https://github.com/user-attachments/assets/5c19ab00-8a42-46d2-823b-36664148905b" />
 
 **Upload Users (Teacher):**
 ทำการ Upload Users ที่เป็น Teaher โดยใช้ไฟล์ teachers_sample.csv
